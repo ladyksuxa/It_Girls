@@ -1,0 +1,126 @@
+#logo {
+    width: 189px;
+    height: 54.98px;
+    margin-left: 100px;
+}
+
+#tel,
+#salons {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: normal;
+    padding: 50px;
+}
+
+#vertion {
+    height: 40px;
+    width: 270px;
+    background-color: #00868A;
+    color: white;
+    font-family: Gilroy;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.social {
+    width: 24px;
+    height: 24px;
+    top: 33px;
+    padding: 10px;
+}
+
+.razdel {
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 40px;
+}
+
+#zapis {
+    background: #FFFFFF;
+    width: 175px;
+    height: 40px;
+}
+
+h1 {
+    font-family: 'Alegreya Sans', sans-serif, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 150%;
+    color: #FFFFFF;
+    position: absolute;
+    width: 316px;
+    height: 72px;
+    left: 312px;
+    top: 310px;
+}
+
+main {
+    background: #4FBFA5;
+}
+
+#opisanie {
+    position: absolute;
+    width: 416px;
+    height: 84px;
+    left: 312px;
+    top: 402px;
+
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 150%;
+    color: #FFFFFF
+}
+
+#podrobno {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 25px 14px;
+    position: absolute;
+    width: 163px;
+    height: 50px;
+    left: 312px;
+    top: 526px;
+    background: #00868A;
+}
+
+#nadpisvknopke {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: 'Times New Roman', Times, serif, serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.razdel:hover {
+    text-decoration: underline;
+}
+
+.social:active {
+    background: #ffe;
+    border: 1px solid #29B0D9;
+}
+
+a:visited {
+    color: rgb(255, 0, 21);
+}
